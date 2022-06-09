@@ -1,0 +1,32 @@
+Year,Event
+1896,
+1900,
+1904,
+1906,
+1908,
+1912,Before Word War 1
+1920,After Word War 1
+1924, After Chinese Communists Rise
+1928,
+1932, After Wall Street Crashes
+1936, Hitler rols
+1948, After World War 2
+1952, After Korean War
+1956,
+1960,
+1964, After Berlin Wall Built
+1968,After King Assassinated
+1972,Before Rise of the PC
+1980,After Islamic Republic Born in Iran
+1984,After The Internet is Born
+1988,
+1992,After Golf War
+1996, After the European Union
+2002, After 9/11
+2004, After US Crushes Iraq
+2006, After Facebook Founded
+2008, Dow Plunges 
+2010, America’s First African American President
+2012,
+2014,Afetr Snowden Reveals Secrets
+2016,Trump Elected
